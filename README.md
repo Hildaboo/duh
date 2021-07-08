@@ -1,7 +1,8 @@
 # Duh/iKee.B iPhone Botnet
-This is a academic restoration of the Duh iPhone Botnet of 2009. 
+This is a academic restoration of the Duh iPhone Botnet of 2009, please note I was a big amateur when I went about doing this, and everything here is shitty.
+So, proceed with caution.
 
-## Requirements
+## Requirements (I never actually managed to test this myself at all)
 * Mac OS X
 * Jailbroken iPhone (I recommend a 3G)
 * xCode/gcc/g++
